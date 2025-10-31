@@ -65,7 +65,7 @@ const _Layout = () => {
         }}
       />
       <Tabs.Screen
-        name="search"
+        name="Search"
         options={{
           title: 'Search',
           headerShown: false,
